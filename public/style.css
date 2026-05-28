@@ -29,3 +29,25 @@
 .icon{
     font-size: 50px;
 }
+/*Chi siamo*/
+.userHeight{
+    height: 70vh;
+}
+/*Shoes*/
+.shoes{
+    background-image: url(/media/negozio.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.cardImg{
+    height:250px;
+    object-position: center;
+}
+.IMG{
+    border-radius: 50px;
+    height: 70vh;
+    background-size: cover;
+}
